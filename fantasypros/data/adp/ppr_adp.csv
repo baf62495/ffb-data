@@ -1,0 +1,396 @@
+,PLAYER,POS,AVG
+0,Christian McCaffrey,RB,1.0
+1,Dalvin Cook,RB,2.0
+2,Alvin Kamara,RB,3.4
+3,Derrick Henry,RB,3.6
+4,Saquon Barkley,RB,5.2
+5,Jonathan Taylor,RB,7.2
+6,Ezekiel Elliott,RB,7.6
+7,Travis Kelce,TE,8.6
+8,Nick Chubb,RB,9.2
+9,Tyreek Hill,WR,9.6
+10,Austin Ekeler,RB,11.2
+11,Davante Adams,WR,11.8
+12,Aaron Jones,RB,12.6
+13,Stefon Diggs,WR,13.4
+14,DeAndre Hopkins,WR,16.2
+15,Cam Akers,RB,16.6
+16,Najee Harris,RB,17.6
+17,Antonio Gibson,RB,19.2
+18,D.K. Metcalf,WR,20.2
+19,Calvin Ridley,WR,20.6
+20,Joe Mixon,RB,21.6
+21,A.J. Brown,WR,22.4
+22,Justin Jefferson,WR,22.8
+23,Patrick Mahomes II,QB,23.2
+24,Darren Waller,TE,23.2
+25,George Kittle,TE,26.0
+26,Clyde Edwards-Helaire,RB,26.6
+27,Michael Thomas,WR,29.0
+28,D'Andre Swift,RB,29.6
+29,Keenan Allen,WR,31.2
+30,J.K. Dobbins,RB,31.8
+31,Terry McLaurin,WR,32.4
+32,Allen Robinson II,WR,34.0
+33,Miles Sanders,RB,34.0
+34,Josh Allen,QB,34.6
+35,David Montgomery,RB,36.0
+36,Josh Jacobs,RB,36.8
+37,Chris Carson,RB,38.8
+38,Julio Jones,WR,39.6
+39,Mike Evans,WR,39.8
+40,CeeDee Lamb,WR,40.0
+41,Amari Cooper,WR,42.4
+42,Robert Woods,WR,43.0
+43,Kyler Murray,QB,43.4
+44,Chris Godwin,WR,45.6
+45,Lamar Jackson,QB,49.6
+46,Myles Gaskin,RB,50.0
+47,Mark Andrews,TE,50.6
+48,Adam Thielen,WR,50.8
+49,Dak Prescott,QB,51.2
+50,Kareem Hunt,RB,53.2
+51,Mike Davis,RB,54.0
+52,Kyle Pitts,TE,54.4
+53,Diontae Johnson,WR,54.4
+54,Cooper Kupp,WR,55.6
+55,Tyler Lockett,WR,56.6
+56,T.J. Hockenson,TE,58.0
+100,Travis Etienne,RB,58.0
+57,D.J. Moore,WR,59.8
+58,Justin Herbert,QB,60.4
+59,Kenny Golladay,WR,61.2
+60,James Robinson,RB,62.2
+61,Russell Wilson,QB,63.2
+62,Brandon Aiyuk,WR,65.6
+63,Odell Beckham Jr.,WR,69.2
+64,Ja'Marr Chase,WR,70.0
+65,Aaron Rodgers,QB,70.4
+66,Chase Edmonds,RB,70.4
+67,Chase Claypool,WR,71.2
+68,Javonte Williams,RB,74.0
+69,Tee Higgins,WR,76.2
+70,Raheem Mostert,RB,76.4
+71,Melvin Gordon III,RB,76.6
+72,JuJu Smith-Schuster,WR,76.6
+73,Tom Brady,QB,77.0
+74,Courtland Sutton,WR,78.4
+75,Dallas Goedert,TE,81.2
+76,Leonard Fournette,RB,82.8
+77,D.J. Chark Jr.,WR,83.4
+78,Noah Fant,TE,84.6
+79,DeVonta Smith,WR,84.6
+80,David Johnson,RB,88.6
+81,Robby Anderson,WR,89.6
+82,Michael Carter,RB,90.8
+83,Matthew Stafford,QB,91.2
+84,Logan Thomas,TE,92.2
+85,Will Fuller V,WR,94.0
+86,Brandin Cooks,WR,94.2
+87,Ronald Jones II,RB,96.0
+88,Deebo Samuel,WR,96.8
+89,Jalen Hurts,QB,97.0
+90,Tyler Boyd,WR,97.2
+91,Jerry Jeudy,WR,97.8
+92,James Conner,RB,99.0
+93,Ryan Tannehill,QB,99.4
+94,Pittsburgh Steelers,DS,101.0
+95,Kenyan Drake,RB,101.0
+96,Joe Burrow,QB,102.2
+143,AJ Dillon,RB,105.8
+97,Curtis Samuel,WR,105.8
+98,Los Angeles Rams,DS,106.0
+99,Zack Moss,RB,108.0
+146,Robert Tonyan,TE,108.8
+101,Damien Harris,RB,108.8
+102,Jarvis Landry,WR,108.8
+103,Marquise Brown,WR,109.0
+104,Trey Sermon,RB,109.6
+105,Antonio Brown,WR,111.0
+106,Michael Pittman Jr.,WR,111.6
+107,Tampa Bay Buccaneers,DS,113.4
+108,Jaylen Waddle,WR,116.8
+109,Laviska Shenault Jr.,WR,118.2
+110,Baltimore Ravens,DS,119.2
+111,Washington Football Team,DS,119.8
+112,Devin Singletary,RB,121.0
+113,Nyheim Hines,RB,121.2
+114,Irv Smith Jr.,TE,124.0
+115,Mike Gesicki,TE,124.6
+116,Michael Gallup,WR,125.0
+117,Rob Gronkowski,TE,126.2
+118,Hunter Henry,TE,126.8
+119,Justin Tucker,K1,127.8
+120,Evan Engram,TE,128.0
+121,Indianapolis Colts,DS,128.8
+122,Tony Pollard,RB,128.8
+123,Jamaal Williams,RB,129.0
+124,Trevor Lawrence,QB,129.2
+125,Matt Ryan,QB,129.4
+126,Gus Edwards,RB,129.4
+127,DeVante Parker,WR,130.4
+128,Henry Ruggs III,WR,133.8
+130,Harrison Butker,K3,134.8
+131,T.Y. Hilton,WR,134.8
+129,Younghoe Koo,K2,134.8
+132,J.D. McKissic,RB,136.0
+133,Jonnu Smith,TE,137.4
+134,Darnell Mooney,WR,137.6
+135,Marvin Jones Jr.,WR,138.4
+136,Cole Beasley,WR,140.0
+137,Alexander Mattison,RB,140.4
+138,Corey Davis,WR,140.8
+139,Mike Williams,WR,142.0
+140,San Francisco 49ers,DS,143.8
+141,Tyler Higbee,TE,145.2
+142,Baker Mayfield,QB,145.2
+144,Buffalo Bills,DS,147.2
+145,Kirk Cousins,QB,148.4
+147,Latavius Murray,RB,149.4
+148,Tarik Cohen,RB,150.6
+149,Jason Sanders,K4,153.8
+267,Jordan Akins,TE,155.0
+150,Mecole Hardman,WR,155.2
+151,Miami Dolphins,DS,157.0
+152,Darrell Henderson,RB,157.4
+268,Giovanni Ricci,TE,159.0
+153,Tua Tagovailoa,QB,160.2
+154,Rodrigo Blankenship,K5,161.2
+182,Kenneth Gainwell,RB,161.8
+155,Carson Wentz,QB,161.8
+156,Deshaun Watson,QB,162.4
+157,Tyler Bass,K6,162.6
+158,Justin Fields,QB,163.4
+159,Greg Zuerlein,K7,167.2
+160,Tevin Coleman,RB,169.2
+189,Rashaad Penny,RB,169.3
+161,Zach Ertz,TE,169.6
+162,Phillip Lindsay,RB,170.2
+163,Elijah Moore,WR,171.2
+164,James White,RB,171.8
+165,Russell Gage,WR,172.0
+166,Ben Roethlisberger,QB,172.8
+167,Daniel Carlson,K8,174.6
+168,Trey Lance,QB,175.8
+190,Giovani Bernard,RB,177.0
+169,Jared Cook,TE,177.0
+214,Sterling Shepard,WR,177.7
+170,New England Patriots,DS,179.0
+171,Ryan Fitzpatrick,QB,181.0
+191,Austin Hooper,TE,181.5
+172,Derek Carr,QB,183.0
+173,Nelson Agholor,WR,183.6
+174,Jalen Reagor,WR,184.4
+239,Denzel Mims,WR,184.5
+175,New Orleans Saints,DS,185.0
+176,Rashod Bateman,WR,186.2
+177,Eric Ebron,TE,188.8
+178,Gabriel Davis,WR,190.4
+242,Javian Hawkins,RB,190.5
+179,Wil Lutz,K9,190.8
+181,Daniel Jones,QB,191.0
+277,Anthony McFarland Jr.,RB,191.0
+220,Christian Kirk,WR,191.3
+199,Cole Kmet,TE,191.5
+180,Cleveland Browns,DS,191.8
+200,Marlon Mack,RB,192.0
+183,Jamison Crowder,WR,193.0
+184,Adam Trautman,TE,193.8
+185,John Brown,WR,195.6
+204,Amon-Ra St. Brown,WR,196.0
+187,Chuba Hubbard,RB,196.4
+188,Gerald Everett,TE,196.8
+206,Brandon McManus,K1,198.3
+207,Damien Williams,RB,198.8
+283,Cordarrelle Patterson,WR,199.0
+186,Ryan Succop,K1,199.0
+284,Austin Seibert,K2,201.0
+209,Zach Wilson,QB,202.0
+288,Pooka Williams Jr.,RB,205.0
+228,Salvon Ahmed,RB,206.0
+229,Allen Lazard,WR,206.7
+212,Kadarius Toney,WR,207.3
+248,Rondale Moore,WR,207.5
+230,Darrynton Evans,RB,207.7
+232,Sam Darnold,QB,208.3
+213,Jeff Wilson Jr.,RB,209.3
+193,A.J. Green,WR,210.0
+195,Taysom Hill,QB,210.2
+196,Blake Jarwin,TE,211.6
+198,Emmanuel Sanders,WR,212.2
+216,Anthony Firkser,TE,212.3
+194,Denver Broncos,DS,212.4
+197,Kansas City Chiefs,DS,212.6
+192,Jason Myers,K1,212.6
+235,Tim Tebow,TE,215.0
+218,Green Bay Packers,DS,215.3
+250,Joshua Kelley,RB,216.0
+201,Cam Newton,QB,216.8
+219,Todd,RB,217.0
+202,Jameis Winston,QB,217.4
+298,Dez Fitzpatrick,WR,218.0
+300,Gerrid Doaks,RB,219.0
+252,O.J. Howard,TE,219.5
+253,Jimmy Graham,TE,220.0
+237,Tennessee Titans,DS,220.3
+254,Josh Palmer,WR,221.5
+221,Seattle Seahawks,DS,221.8
+208,Sony Michel,RB,222.8
+258,La'Mical Perine,RB,224.0
+210,Parris Campbell,WR,224.2
+224,Arizona Cardinals,DS,225.5
+225,Terrace Marshall Jr.,WR,225.5
+211,Chicago Bears,DS,225.6
+260,Elijah Mitchell,RB,226.0
+301,Chad Beebe,WR,226.0
+226,Jared Goff,QB,226.3
+302,Anthony Schwartz,WR,227.0
+205,Matt Gay,K1,227.8
+240,Dalton Schultz,TE,229.0
+306,Tyler Johnson,WR,229.0
+203,Matt Prater,K1,229.2
+241,Benny Snell Jr.,RB,229.3
+223,Graham Gano,K1,230.0
+307,Eno Benjamin,RB,230.0
+263,Ty Johnson,RB,230.0
+265,Nico Collins,WR,230.5
+215,Darrel Williams,RB,231.0
+266,Nick Folk,K2,231.0
+222,Mason Crosby,K1,231.8
+309,Corey Clement,RB,232.0
+231,Sammy Watkins,WR,233.3
+243,Hayden Hurst,TE,233.3
+233,Mark Ingram II,RB,234.3
+217,Minnesota Vikings,DS,235.4
+255,Cairo Santos,K1,235.5
+234,Dallas Cowboys,DS,235.8
+244,Devontae Booker,RB,236.3
+269,DeeJay Dallas,RB,237.0
+245,Breshad Perriman,WR,237.0
+312,Royce Freeman,RB,238.0
+247,Boston Scott,RB,238.7
+316,Las Vegas Raiders,DS,241.0
+317,Duke,RB,242.0
+318,Justice Hill,RB,242.0
+227,Robbie Gould,K1,243.5
+249,Tyrell Williams,WR,243.7
+274,Ke'Shawn Vaughn,RB,247.0
+275,Rhamondre Stevenson,RB,247.5
+324,Donovan Peoples-Jones,WR,248.0
+251,Justin Jackson,RB,248.3
+238,New York Giants,DS,250.8
+280,Scotty Miller,WR,251.5
+279,Chris Herndon IV,TE,251.5
+326,Stephen Gostkowski,K3,252.0
+281,Kyle Rudolph,TE,252.5
+259,,RB,252.7
+262,Tre'Quan Smith,WR,255.3
+236,Joey Slye,K1,255.3
+285,Evan McPherson,K2,256.0
+264,Demarcus Robinson,WR,256.7
+256,Los Angeles Chargers,DS,257.0
+287,Keke Coutee,WR,257.0
+293,Wayne Gallman,RB,260.5
+330,Qadree Ollison,RB,261.0
+246,Carolina Panthers,DS,261.3
+294,Bryan Edwards,WR,262.5
+295,Malcolm Brown,RB,262.5
+331,Jalen Richard,RB,263.0
+270,Darius Slayton,WR,263.0
+276,Ka'imi Fairbairn,K2,264.5
+334,Jermar Jefferson,RB,267.0
+257,Josh Lambo,K2,267.0
+335,Olamide Zaccheaus,WR,268.0
+273,Jerick McKinnon,RB,268.3
+303,Larry Rountree III,RB,268.5
+286,Chris Boswell,K2,268.5
+261,Mac Jones,QB,268.8
+305,Jordan Love,QB,269.0
+336,Quintez Cephus,WR,269.0
+278,Drew Lock,QB,270.7
+337,Kyle Juszczyk,RB,271.0
+338,Mike Boone,RB,271.0
+282,Dawson Knox,TE,272.3
+311,Matt Breida,RB,273.0
+313,Byron Pringle,WR,274.0
+314,Jack Doyle,TE,274.0
+271,Cody Parkey,K2,274.7
+289,DeSean Jackson,WR,275.3
+291,Josh Reynolds,WR,276.0
+320,Tim Patrick,WR,277.0
+272,Michael Badgley,K2,278.0
+296,Travis Fulgham,WR,278.7
+292,Jakobi Meyers,WR,279.0
+297,Jimmy Garoppolo,QB,279.0
+299,Mo Alie-Cox,TE,279.3
+346,Andy Dalton,QB,280.0
+348,Larry Fitzgerald,WR,283.0
+308,Marquez Valdes-Scantling,WR,283.7
+329,David Njoku,TE,285.0
+310,Pat Freiermuth,TE,285.0
+332,Cameron Brate,TE,286.5
+315,Dan Arnold,TE,286.7
+350,Anthony Miller,WR,287.0
+321,Teddy Bridgewater,QB,288.7
+351,Cincinnati Bengals,DS,289.0
+290,Philadelphia Eagles,DS,289.0
+352,Tucker McCann,K3,291.0
+339,D'Wayne Eskridge,WR,291.0
+354,Brian Hill,RB,292.0
+353,Tyrod Taylor,QB,292.0
+356,Mitchell Trubisky,QB,293.0
+355,Adrian Peterson,RB,293.0
+357,Tylan Wallace,WR,294.0
+343,Chris Evans,RB,294.0
+358,Jalen Hurd,WR,295.0
+333,Carlos Hyde,RB,295.3
+322,Jake Elliott,K2,296.5
+340,Samaje Perine,RB,296.5
+360,Tyler Conklin,TE,297.0
+361,Rex Burkhead,RB,298.0
+349,David Moore,WR,298.0
+304,Jacksonville Jaguars,DS,298.3
+363,Khalil Herbert,RB,299.0
+327,Hunter Renfrow,WR,301.0
+323,Kendrick Bourne,WR,302.0
+342,Rashard Higgins,WR,302.0
+366,Jacob Hollister,TE,303.0
+367,Cornell Powell,WR,305.0
+319,Dustin Hopkins,K2,305.0
+347,C.J. Uzomah,TE,305.0
+364,Will Dissly,TE,305.5
+369,Kalen Ballage,RB,307.0
+328,New York Jets,DS,308.0
+344,Atlanta Falcons,DS,310.0
+325,Randy Bullock,K3,310.5
+341,Amari Rodgers,WR,312.0
+370,Deonte Harris,WR,316.0
+371,D'Onta Foreman,RB,319.0
+345,Detroit Lions,DS,320.5
+372,Kerryon Johnson,RB,321.0
+365,Van Jefferson,WR,322.0
+373,Randall Cobb,WR,323.0
+374,Devin Funchess,WR,326.0
+368,Dyami Brown,WR,326.5
+362,Tutu Atwell,WR,328.5
+375,Ameer Abdullah,RB,329.0
+359,Houston Texans,DS,330.5
+376,Ito Smith,RB,333.0
+377,Jonathan Williams,RB,337.0
+378,Zach Pascal,WR,340.0
+379,Stephen Anderson,TE,344.0
+380,Marcus Mariota,QB,351.0
+381,Marquise Goodwin,WR,353.0
+382,KJ Hamler,WR,355.0
+383,Donald Parham Jr.,TE,363.0
+384,Antonio Gandy-Golden,WR,365.0
+385,Keelan Cole Sr.,WR,367.0
+386,Lynn Bowden Jr.,WR,369.0
+387,Preston Williams,WR,371.0
+388,Jalen Guyton,WR,372.0
+389,Cam Sims,WR,373.0
+390,Shi Smith,WR,374.0
+391,Damiere Byrd,WR,375.0
+392,James Washington,WR,376.0
+393,N'Keal Harry,WR,377.0
+394,Devin Smith,WR,378.0
