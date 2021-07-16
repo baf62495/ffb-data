@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup as BS
 import pandas as pd
+from utils import rename_dupe_col
 
 # TODO: Do other league formats also
 
@@ -40,10 +41,10 @@ for pos in positions:
         'FPTS': 'Fantasy Points',
       }, axis = 1)
 
-      df['Rush Yds'] = df['YDS'].iloc[:, 0]
-      df['Rec Yds'] = df['YDS'].iloc[:, 1]
-      df['Rush TDs'] = df['TDS'].iloc[:, 0]
-      df['Rec TDs'] = df['TDS'].iloc[:, 1]
+      rename_dupe_col(df, 'Rush Yds', 'YDS', 0)
+      rename_dupe_col(df, 'Rec Yds', 'YDS', 1)
+      rename_dupe_col(df, 'Rush TDs', 'TDS', 0)
+      rename_dupe_col(df, 'Rec TDs', 'TDS', 1)
 
       df = df.drop([
         'YDS',
@@ -65,6 +66,7 @@ for pos in positions:
       ]
 
       df = df[ordered_cols].sort_values(by = 'Fantasy Points', ascending = False)
+      
 
     if pos == 'wr':
       df = df.rename({
@@ -74,10 +76,10 @@ for pos in positions:
         'FPTS': 'Fantasy Points',
       }, axis = 1)
 
-      df['Rush Yds'] = df['YDS'].iloc[:, 1]
-      df['Rec Yds'] = df['YDS'].iloc[:, 0]
-      df['Rush TDs'] = df['TDS'].iloc[:, 1]
-      df['Rec TDs'] = df['TDS'].iloc[:, 0]
+      rename_dupe_col(df, 'Rush Yds', 'YDS', 1)
+      rename_dupe_col(df, 'Rec Yds', 'YDS', 0)
+      rename_dupe_col(df, 'Rush TDs', 'TDS', 1)
+      rename_dupe_col(df, 'Rec TDs', 'TDS', 0)
 
       df = df.drop([
         'YDS',
@@ -108,12 +110,12 @@ for pos in positions:
         'FPTS': 'Fantasy Points',
       }, axis = 1)
 
-      df['Pass Yds'] = df['YDS'].iloc[:, 0]
-      df['Rush Yds'] = df['YDS'].iloc[:, 1]
-      df['Pass TDs'] = df['TDS'].iloc[:, 0]
-      df['Rush TDs'] = df['TDS'].iloc[:, 1]
-      df['Pass Att'] = df['ATT'].iloc[:, 0]
-      df['Rush Att'] = df['ATT'].iloc[:, 1]
+      rename_dupe_col(df, 'Pass Yds', 'YDS', 0)
+      rename_dupe_col(df, 'Rush Yds', 'YDS', 1)
+      rename_dupe_col(df, 'Pass TDs', 'TDS', 0)
+      rename_dupe_col(df, 'Rush TDs', 'TDS', 1)
+      rename_dupe_col(df, 'Pass Att', 'ATT', 0)
+      rename_dupe_col(df, 'Rush Att', 'ATT', 1)
 
       df = df.drop([
         'YDS', 'TDS', 'ATT'
@@ -159,8 +161,9 @@ for pos in positions:
 
       df = df[ordered_cols].sort_values(by = 'Fantasy Points', ascending = False)
 
-    # df.to_csv(f'fantasypros/data/projections/{pos}.csv')
-    # print(f'Scrape successful: /fantasypros/data/projections/{pos}.csv')
+    df.to_csv(f'fantasypros/data/projections/half_ppr/{pos}.csv')
+    print(f'Scrape successful: fantasypros/data/projections/half_ppr/{pos}.csv')
+    
     dfs.append(df)
 
 
@@ -173,5 +176,5 @@ for pos in positions:
   df = df[columns]
   df = df.sort_values(by = 'Fantasy Points', ascending = False)
 
-df.to_csv('fantasypros/data/projections/all_half_ppr.csv')
-print('Scrape successful: /fantasypros/data/projections/all_half_ppr.csv')
+df.to_csv('fantasypros/data/projections/half_ppr/all.csv')
+print('Scrape successful: /fantasypros/data/projections/half_ppr/all.csv')
